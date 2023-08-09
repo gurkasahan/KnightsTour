@@ -1,0 +1,15 @@
+/Users/gurkasahan/Desktop/Prog_Project/Prog_Project/Prog_Project/bin/Debug/net7.0/Prog_Project
+/Users/gurkasahan/Desktop/Prog_Project/Prog_Project/Prog_Project/bin/Debug/net7.0/Prog_Project.deps.json
+/Users/gurkasahan/Desktop/Prog_Project/Prog_Project/Prog_Project/bin/Debug/net7.0/Prog_Project.runtimeconfig.json
+/Users/gurkasahan/Desktop/Prog_Project/Prog_Project/Prog_Project/bin/Debug/net7.0/Prog_Project.dll
+/Users/gurkasahan/Desktop/Prog_Project/Prog_Project/Prog_Project/bin/Debug/net7.0/Prog_Project.pdb
+/Users/gurkasahan/Desktop/Prog_Project/Prog_Project/Prog_Project/obj/Debug/net7.0/Prog_Project.csproj.AssemblyReference.cache
+/Users/gurkasahan/Desktop/Prog_Project/Prog_Project/Prog_Project/obj/Debug/net7.0/Prog_Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gurkasahan/Desktop/Prog_Project/Prog_Project/Prog_Project/obj/Debug/net7.0/Prog_Project.AssemblyInfoInputs.cache
+/Users/gurkasahan/Desktop/Prog_Project/Prog_Project/Prog_Project/obj/Debug/net7.0/Prog_Project.AssemblyInfo.cs
+/Users/gurkasahan/Desktop/Prog_Project/Prog_Project/Prog_Project/obj/Debug/net7.0/Prog_Project.csproj.CoreCompileInputs.cache
+/Users/gurkasahan/Desktop/Prog_Project/Prog_Project/Prog_Project/obj/Debug/net7.0/Prog_Project.dll
+/Users/gurkasahan/Desktop/Prog_Project/Prog_Project/Prog_Project/obj/Debug/net7.0/refint/Prog_Project.dll
+/Users/gurkasahan/Desktop/Prog_Project/Prog_Project/Prog_Project/obj/Debug/net7.0/Prog_Project.pdb
+/Users/gurkasahan/Desktop/Prog_Project/Prog_Project/Prog_Project/obj/Debug/net7.0/Prog_Project.genruntimeconfig.cache
+/Users/gurkasahan/Desktop/Prog_Project/Prog_Project/Prog_Project/obj/Debug/net7.0/ref/Prog_Project.dll
